@@ -1,0 +1,10 @@
+[package]
+name = "note"
+version = "0.0.1"
+entrypoint = "lib.typ"
+# authors = ["sqfzy"]
+# license = "MIT"
+# description = ""
+# repository = ""
+# keywords = []
+# categories = [""]
